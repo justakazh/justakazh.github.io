@@ -1,0 +1,26 @@
+nav{
+    background-color: mediumpurple;
+    color: white;
+}
+nav a{
+    color:white;
+}
+li a:hover{
+    color:white;
+    border-bottom: 0.1px solid white;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-color: mediumpurple;
+    color: white
+}
+.jumbotron img{
+    width: 220px
+}
+.section1{
+    margin-top: 100px;
+}
+section{
+    min-height: 500px;
+}

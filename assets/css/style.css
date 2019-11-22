@@ -1,0 +1,78 @@
+.navbars{
+	background-color: #b30047; 
+}
+nav a{
+	color: white;
+}
+nav a:hover{
+	color: #b3b3b3;
+}
+ul li a{
+	color: white;
+}
+ul li a:hover{
+	color: #b3b3b3;	
+}
+{
+	color: #000;
+}
+.main-menu ul li a{
+	color: #0080ff;
+	font-weight: bold;
+	margin:10px 50px;
+}
+.main-menu ul li a:hover{
+	color: #004080;
+	font-weight: bold;
+	text-shadow:1px 1px 1px 1px solid red;
+}
+.produk	{
+	margin-top: 30px;
+}
+.produk h3 hr{
+	margin-bottom: 60px;
+}
+.modals a{
+	color: black;
+}
+.container form{
+	margin-top: 30px;
+}
+.container form input{
+	margin-top: 10px;
+}
+.container form button{
+	margin-top: 15px;
+}
+.container form a{	
+	margin-top: 15px;
+}
+.daftar form{
+	margin-top: 30px;
+}
+.daftar form input{
+	margin-top: 10px;
+}
+.daftar form button{
+	margin-top: 15px;
+}
+.daftar form a{
+	margin-top: 15px;
+}
+
+.kontak form{
+	margin-top: 30px;
+}
+.kontak form input{
+	margin-top: 10px;
+}
+.kontak form textarea{
+	height: 200px;
+	margin-top: 15px;
+}
+.kontak form button{
+	margin-top: 15px;
+}
+.kontak form a{
+	margin-top: 15px;
+}
